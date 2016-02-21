@@ -1,0 +1,3 @@
+https://ussouthcentral.services.azureml.net/workspaces/afbd553b9bac4c95be3d040998943a4f/services/89b09de10a164ba4bbb02da272a62ca2/jobs?api-version=2.0
+kFOUVXPbXW2pTaRNG8ex2vCWUbFWXLJt0QBDQrLGmNvuaM2p/RBvz5kxkkxR/mVXTzs+M2JB+QGhMqkiSejKaQ==
+https://ussouthcentral.services.azureml.net/workspaces/afbd553b9bac4c95be3d040998943a4f/services/89b09de10a164ba4bbb02da272a62ca2/jobs/

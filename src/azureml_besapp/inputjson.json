@@ -1,0 +1,6 @@
+{ "GlobalParameters": {}, 
+    "Inputs": { "input1": { "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=myAcctName;AccountKey=T2LcwiE2tqSnH93rNxvGaFeSkjC12xQ8kkieg==", 
+            "RelativeLocation": "myContainer/sampleinput.csv" } }, 
+    "Outputs": { "output1": { "ConnectionString": "DefaultEndpointsProtocol=https;AccountName=myAcctName;AccountKey=LcwiE2tqSnH93rNxvGaFeSkjC12xQ8kkieg==", 
+            "RelativeLocation": "myContainer/sampleoutput.csv" } } 
+} 
